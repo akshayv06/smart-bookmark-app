@@ -409,11 +409,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+**Your Name** - [Akshay verma] - av2139456@gmail.com
 
-**Project Link**: [https://github.com/yourusername/smartmarks](https://github.com/yourusername/smartmarks)
+**Project Link**: [https://github.com/yourusername/smartmarks](https://github.com/akshayv06/smart-bookmark-app)
 
-**Live Demo**: [https://smartmarks.vercel.app](https://smartmarks.vercel.app)
+**Live Demo**: [https://smartmarks.vercel.app](https://smart-bookmark-app-psi-lovat.vercel.app)
 
 ---
 
