@@ -150,8 +150,8 @@ smartmarks/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/smartmarks.git
-cd smartmarks
+git clone https://github.com/akshayv06/smart-bookmark-app.git
+cd smart-bookmark-app
 ```
 
 2. **Install dependencies**
@@ -281,7 +281,7 @@ git push origin main
 ### Common Issues & Solutions
 
 <details>
-<summary><b>❌ Google Auth works locally but not in production</b></summary>
+<summary><b> Google Auth works locally but not in production</b></summary>
 
 **Problem**: OAuth redirects to localhost after deployment
 
@@ -294,7 +294,7 @@ git push origin main
 </details>
 
 <details>
-<summary><b>❌ Invalid Origin Error</b></summary>
+<summary><b> Invalid Origin Error</b></summary>
 
 **Problem**: `Invalid Origin: URIs must not contain a path or end with "/"`
 
