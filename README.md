@@ -411,9 +411,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Your Name** - [Akshay verma] - av2139456@gmail.com
 
-**Project Link**: [https://github.com/yourusername/smartmarks](https://github.com/akshayv06/smart-bookmark-app)
+**Project Link**: (https://github.com/akshayv06/smart-bookmark-app)
 
-**Live Demo**: [https://smartmarks.vercel.app](https://smart-bookmark-app-psi-lovat.vercel.app)
+**Live Demo**: (https://smart-bookmark-app-psi-lovat.vercel.app)
 
 ---
 
